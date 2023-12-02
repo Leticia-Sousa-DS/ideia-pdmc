@@ -6,7 +6,7 @@ Henry Sant'Ana Lomba;
 Gabriella Pereira Morais; 
 André Luiz Ferrari de Arruda.
 
-"Our Cartoon List" - Um aplicativo mobile.
+"Our Cartoon List" - Um aplicativo mobile em Dart inspirado em apps como Letterboxd e MyAnimeList.
 
 # our_cartoon_list
 Um projeto de avaliação de mídias.
